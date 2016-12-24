@@ -1,0 +1,4 @@
+sessionid = "8d16358ba93439d7db61338b"
+steamLogin = "76561197965165543%7C%7CC32A59D5D848A7D3AF0B95DFAAF9B51D764130B5"
+steamparental = ""
+sort = ""
